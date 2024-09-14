@@ -1,0 +1,14 @@
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/MoveEstimator/obj/Debug/net8.0/MoveEstimator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/MoveEstimator/obj/Debug/net8.0/MoveEstimator.AssemblyInfoInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/MoveEstimator/obj/Debug/net8.0/MoveEstimator.AssemblyInfo.cs
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/MoveEstimator/obj/Debug/net8.0/MoveEstimator.csproj.CoreCompileInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/MoveEstimator/bin/Debug/net8.0/MoveEstimator
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/MoveEstimator/bin/Debug/net8.0/MoveEstimator.deps.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/MoveEstimator/bin/Debug/net8.0/MoveEstimator.runtimeconfig.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/MoveEstimator/bin/Debug/net8.0/MoveEstimator.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/MoveEstimator/bin/Debug/net8.0/MoveEstimator.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/MoveEstimator/obj/Debug/net8.0/MoveEstimator.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/MoveEstimator/obj/Debug/net8.0/refint/MoveEstimator.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/MoveEstimator/obj/Debug/net8.0/MoveEstimator.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/MoveEstimator/obj/Debug/net8.0/MoveEstimator.genruntimeconfig.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/MoveEstimator/obj/Debug/net8.0/ref/MoveEstimator.dll
